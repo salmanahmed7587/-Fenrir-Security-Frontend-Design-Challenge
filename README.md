@@ -4,6 +4,11 @@ This project was built as part of the Fenrir Security frontend challenge. I focu
 
 During this challenge, I focused on component reusability, clean state management, and maintaining a scalable folder structure. I also ensured the UI remained responsive and accessible across different screen sizes.
 
+## 🔗 Live Links
+
+- **Live Demo:** [Fenrir Security Dashboard](https://vercel.com/salman-ahmeds-projects-ec0c7470/fenrir-security-frontend-design-challenge)
+- **GitHub Repo:** [Source Code](https://github.com/salmanahmed7587/-Fenrir-Security-Frontend-Design-Challenge)
+
 ## Tech Stack
 
 | Tool                | Purpose                                        |
